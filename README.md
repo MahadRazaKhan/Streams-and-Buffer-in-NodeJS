@@ -26,6 +26,4 @@ This repository demonstrates a **Node.js HTTP server** that handles file streami
 
 ---
 
-## Demo GIF
-
 ![Demo GIF](https://miro.medium.com/v2/resize:fit:1400/1*JfERCAVU1kels69egS3L4A.gif)
